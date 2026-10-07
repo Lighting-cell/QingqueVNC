@@ -1,0 +1,10 @@
+﻿TigerVNC Viewer 1.16.2 is bundled without modification.
+
+Corresponding source archive:
+https://github.com/TigerVNC/tigervnc/archive/refs/tags/v1.16.2.zip
+
+Official project and binary release:
+https://github.com/TigerVNC/tigervnc
+https://sourceforge.net/projects/tigervnc/files/stable/1.16.2/vncviewer64-1.16.2.exe/download
+
+License: GNU GPL version 2 or later. See GPL-2.0.txt in this directory.

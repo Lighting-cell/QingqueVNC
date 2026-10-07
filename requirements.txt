@@ -1,0 +1,5 @@
+PySide6==6.11.2
+PyQtDarkTheme==2.1.0
+cryptography==50.0.2
+paramiko==5.0.0
+PyInstaller==6.22.3
