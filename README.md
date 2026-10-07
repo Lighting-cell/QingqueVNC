@@ -30,6 +30,3 @@ py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 pyinstaller --noconfirm --clean --distpath .\release --workpath .\build .\QingQueVNC.spec
-```
-
-第三方组件许可见 `release\THIRD_PARTY_NOTICES.txt` 和 `release\licenses`。
